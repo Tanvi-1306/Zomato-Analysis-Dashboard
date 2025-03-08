@@ -8,5 +8,9 @@ Country-wise Analysis – Insights on restaurant distribution across countries.
 
 Overview – Summary of restaurant data, including table bookings, online deliveries, and cost analysis.
 
+![image alt](https://github.com/Tanvi-1306/Zomato-Analysis-Dashboard/blob/2f33b004ebb724c7dc89097c2a218294f17420e8/Screenshot%20(74).png)
+
+Rating and Votes Analysis – Trends in ratings, votes, and customer engagement by city and cuisine.
+
 ![image alt](
 
